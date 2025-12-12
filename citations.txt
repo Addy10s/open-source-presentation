@@ -1,0 +1,8 @@
+MLA 8 Citations: 
+
+Brownson, Michael. “Comprehensive Guide on Commercial License Types.” Reprise Software, 28 Apr. 2025, reprisesoftware.com/commercial-license-types/. Accessed 10 Dec. 2025. 
+
+Gupta, Deepak. “Guide to Open Source Licensing: Permissive vs. Copyleft.” Meet the Tech Entrepreneur, Cybersecurity Author, and Researcher, 17 June 2024, guptadeepak.com/open-source-licensing-101-everything-you-need-to-know/.
+
+Stallman, Richard. “The GNU Manifesto.” Www.gnu.org, 1985, www.gnu.org/gnu/manifesto.en.html. Accessed 10 Dec. 2025.
+Open Source Initiative. “The Open Source Definition | Open Source Initiative.” Opensource.org, 7 July 2006, opensource.org/osd.
