@@ -1,0 +1,65 @@
+╔═ Main Page, Introduction
+╠═ Definitions and then important organizations; transition via talking about the GPL
+╠═ Licenses; transition through giving examples of what uses those licenses
+╠═ Important Projects; Transition through talking about "giving another example"
+╚═ Plug My Github; End off on saying "and it's free, as in freedom(it's under GPL)"
+
+"Open Source" - Words in the middle, may have a few scattered symbols for Github, OSI, etc
+╚═ Updates to "What is Open Source"
+
+> "OSI Definition" - Words centered at the top, shows the OSI logo, along with a short snippet of what the rules mean
+
+To quote the OSI, or Open Source initiative, Open Source is defined that follow a set of 10 rules, that, in essense,effectively state that there can't be restrictions on how the software is distributed, or who it's distributed to, it can't be restricting other software, and the source code must be public and unobfuscated, and must be allowed to be modified, and distributed in the modified form
+
+> "Okay, but who are they?" - Words Centered
+
+The Open source Initiative is a group that tries to bring open source to the mainstream, and continue to build the community bigger and stronger, they also decide what criteria a license has to follow to be an Open Source License, and review licenses to be open source or not
+
+> "what about Free Software?" - Words centered - "and that's free as in freedom" below
+
+Free Software(in simpler terms) is the GNU/FSF equivalent of Open Source Software, for your software to be Free Software(and that's free as in freedom), you must be able to use it how you wish, be able to study and modify how the software works, which means the source code must be released, and you must be able to distribute the original or your modified version of the software.
+
+> "And who's that" - Words centered
+
+GNU started as the free alternative to the UNIX Operating System, which includes important pieces of software such as Bash, GCC, GIMP, GRUB, Emacs, nano, and GPG. GNU is also directly tied to the Free Software Foundation, or the FSF, as they're both founded by the same person, and the FSF was created to sponsor GNU legally. the FSF also works with many other campaigns, such as Librephone, which is about creating a completely free(as in freedom) phone, End Software Patents, which is self explanatory, and Defective By Design, which is campaigning against DRM
+
+> "What's the difference" - Words centered - FSF logo on one side, OSI logo on the other
+
+The term "free software" was coined by Richard Stallman, the founder of the FSF and GNU, in the GNU Manifesto, in 1984, whereas the term "open source", was coined during in a meeting in response to the strict rules of "free software", and the political meaning behind the phrase, in which the name was suggested by Christine Peterson, and it stuck.
+
+Free software has a lot about the ethics of the software, and the freedoms you should have over your software, whereas open source software is mostly about the benefits of everyone being able to contribute
+
+> "Type of Licenses" - words centered, scatter license logos across the slide(GPL/AGPL/LGPL, Beastie, Apache logo, Unlicense logo, WTFPL logo, and Creative Commons logo)
+
+"There's 3 main types of Free software or Open source software licenses"
+
+> "Copyleft" -Words centered - GPL Logos surrounding
+
+Copyleft is the strictest of the three, in simple terms, it means that any released copies of the software have to use the same or newer license, and may extend further, and that is what GNU recommends to use, to keep free software free
+
+(point to logos while mentioned) examples include the GNU GPL, AGPL, which is stronger, and the LGPL, and the Mozilla MPL, which are weaker
+
+> "Permissive" - Words Centered - Beastie, and Apache logo surrounding
+
+Permissive is, as the name suggests, mostly hands-off on what can be done with the software, usually only stating that the copyright notice must be kept, and say that there is no warranty, and the copyright holder isn't liable
+
+(Point to logos while mentioning) - BSD, disclaimer: this isn't the logo for the BSD license, it's the logo for the BSD Operating System, but there's no official logo, and the BSD operating system is licensed under the BSD license, so too bad, the Apache license, which is not the same apache that makes attack helicopters, and is the longest license of the 3 I've chosen to mention and the MIT License, yes, as in the college MIT, the BSD is also UC-Berkeley.
+
+> "Public" - word centered, wtfpl logo and unlicense logo surrounding
+
+Public says that you can do whatever you want, and is putting the code into the public domain, for anyone to use, with popular public licenses including
+
+(Point at logos) The Unlicense, which is a much more professional license, and the WTFPL, which you can look up what that stands for yourself, which is much less professional, and not an official Open Source License, but it is an official Free Software License, which all the other licenses I've mentioned also are, and are also GPL compatible
+
+
+> "Do I use Open Source Software?" - Words centered
+
+However much I hate that it's the truth, most software is proprietary, meaning the source code isn't public, so you don't know what it's doing, but is built off Open Source libraries, such as VSCode, Chrome, ChromeOS, and Android, which all have an open source version, that they then add more on top of, which is proprietary.
+
+But here's a bunch of Open Source Software, categorized by how popular they are
+
+> "Somewhat Well known" - Word Centered, surrounded by Firefox, UblockOrigin, Sodium, GIMP, VLC, OBS, Blender, OSU!
+
+These are all Fully Open Source projects, that I'd assume most people would know a large chunk of them (FF is MPL, uBo is GPLv3, Sodium is LPGPL, GIMP is GPLv3, VLC is GPLv2, OBS is GPLv2, Blender is GPLv3, and osu! is MIT)
+
+> "Semi-Popular" - Words centered, surrounded by Libreoffice, Bluesky, GNOME, KDE, Thunderbird, Inkscape, Krita, Kdenlive, 

@@ -5,4 +5,14 @@ Brownson, Michael. “Comprehensive Guide on Commercial License Types.” Repris
 Gupta, Deepak. “Guide to Open Source Licensing: Permissive vs. Copyleft.” Meet the Tech Entrepreneur, Cybersecurity Author, and Researcher, 17 June 2024, guptadeepak.com/open-source-licensing-101-everything-you-need-to-know/.
 
 Stallman, Richard. “The GNU Manifesto.” Www.gnu.org, 1985, www.gnu.org/gnu/manifesto.en.html. Accessed 10 Dec. 2025.
+
 Open Source Initiative. “The Open Source Definition | Open Source Initiative.” Opensource.org, 7 July 2006, opensource.org/osd.
+
+The GNU Project. “What Is Free Software?
+GNU Project - Free Software Foundation.” Gnu.org, 2019, www.gnu.org/philosophy/free-sw.en.html#selling. Accessed 13 Dec. 2025.
+
+GeeksforGeeks. “Difference between Free Software and Open Source Software.” GeeksforGeeks, 27 Feb. 2020, www.geeksforgeeks.org/software-engineering/difference-between-free-software-and-open-source-software/.
+
+The Open Source Initiative. “History of the Open Source Initiative.” Open Source Initiative, 2025, opensource.org/about/history-of-the-open-source-initiative.
+
+E foundation. “What Is the Difference between Free Software and Open Source Software? - E Foundation - DeGoogled UnGoogled Smartphone Operating Systems and Online Services - Your Data Is Your Data.” E.foundation, 8 Dec. 2023, e.foundation/what-is-the-difference-between-free-software-and-open-source-software/.
