@@ -25,6 +25,8 @@
 - React(MIT), Svelte(MIT)
 - VSCodium, and a majority of VScode as a whole (MIT)
 - Python(Custom License), Rust(MIT and Apache 2.0), Swift(apache 2)
+- Git(GPLv2)
+- OpenSSH(BSD 2/3)
 
 ### "Alternative" Software
 

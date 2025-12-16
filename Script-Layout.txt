@@ -60,6 +60,20 @@ But here's a bunch of Open Source Software, categorized by how popular they are
 
 > "Somewhat Well known" - Word Centered, surrounded by Firefox, UblockOrigin, Sodium, GIMP, VLC, OBS, Blender, OSU!
 
-These are all Fully Open Source projects, that I'd assume most people would know a large chunk of them (FF is MPL, uBo is GPLv3, Sodium is LPGPL, GIMP is GPLv3, VLC is GPLv2, OBS is GPLv2, Blender is GPLv3, and osu! is MIT)
+These are all Fully Open Source projects, that I'd assume most people would know a large chunk of them, (Give a short explanation of them)(FF is MPL, uBo is GPLv3, Sodium is LPGPL, GIMP is GPLv3, VLC is GPLv2, OBS is GPLv2, Blender is GPLv3, and osu! is MIT)
 
-> "Semi-Popular" - Words centered, surrounded by Libreoffice, Bluesky, GNOME, KDE, Thunderbird, Inkscape, Krita, Kdenlive, 
+> "Somewhat Niche" - Words centered, surrounded by Libreoffice, Bluesky, GNOME, KDE, Thunderbird, Inkscape, Krita, Kdenlive, Tor
+
+These are all fully open source apps that have a dedicated fanbase, but I wouldn't say are popular, (give a short explanations) (Libreoffice is MPL, Bsky is MIT and Apache 2.0, GNOME and KDE are both GPLv2 and LGPL, Thunderbird is MPL, Inkscape is GPLv2, Krita is GPLv3, Kdenlive is GPLv3, and Tor is CC BY-SA 4.0)
+
+> "Underlying" -Words Centered, surrounded by FFmpeg, GNU Coreutils, Linux, QT, Webkit, Chromium
+
+These are all underlying software most of which you've likely used, without realizing it, FFmpeg is a tool for audio in video, which Youtube, twitch and many similar platforms use, the GNU Coreutils, along with Linux, which are used in servers for almost all platforms. QT is used for making GUIs, which many desktop apps use. There's also Webkit, which Safari and all iOS browsers use and chromium, which Chrome, Brave, Opera, Edge, Vivaldi, and most other browsers use, along many things you didn't realize are browsers, such as Steam
+
+> "Development Tools" - Words Centered, surrounded by Git, OpenSSH, Vim, VSCodium, Rust, LLVM, GCC, React, Svelte
+
+These are all popular development tools that are open source, although there are many that are, these are just the first ones I thought of, Git(GPL ) is the most popular Version Control System, which a majority of projects use. OpenSSH(BSD licenses), which is the most popular implementation of the SSH protocol, which is the default on most linux distros, BSDs, Mac, and even windows. Vim(Vim License, which is Permissive) and VScodium(MIT) are popular text and code editors (I wrote this script using VScodium). VSCodium is just a fork of VSCode without any proprietary software included though. Rust(MIT/Apache 2.0) is a popular programming language, which is free and open source. LLVM(Apache 2.0) and GCC(GPLv3) are both backends for compilation, and React and Svelte are popular web frameworks, and this presentation is built in Svelte
+
+> "Speaking of free software" - Words Centered, plug my Github somewhere on there
+
+Oh! also, this entire presentation is Free and Open Source, from the slides, to the script and notes, all of which you can find at my Github!
