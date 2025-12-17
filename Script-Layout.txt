@@ -29,6 +29,10 @@ The term "free software" was coined by Richard Stallman, the founder of the FSF 
 
 Free software has a lot about the ethics of the software, and the freedoms you should have over your software, whereas open source software is mostly about the benefits of everyone being able to contribute
 
+> "Benefits" - words centered - surrounded by pictures of a group of people, open book, a picture of a fork, and a lock
+
+All of these three are directly connected, One benefit is that anyone, even if they don't know how to code, such as an artist, music producer, or just someone who can help with improving spelling mistakes on the README can contribute their skills towards making the project better. A fork is a term for when someone works off an existing project's source code, making their own modifications. A very useful perk is anyone can learn off the source code, which makes it a lot easier to learn and fix problems. Finally, another useful perk is privacy and security. Since anyone can look at the code, if there is a privacy issue, someone can fork it and remove it, and if there's a security issue, anyone can fix it.
+
 > "Type of Licenses" - words centered, scatter license logos across the slide(GPL/AGPL/LGPL, Beastie, Apache logo, Unlicense logo, WTFPL logo, and Creative Commons logo)
 
 "There's 3 main types of Free software or Open source software licenses"
