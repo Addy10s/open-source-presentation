@@ -1,14 +1,16 @@
-<div class="flex h-screen bg-amber-400">
+<div class="flex h-screen bg-[url('/src/routes/background.png')] bg-center">
 	<div class="m-auto">
 		<h3 class="text-[10rem] font-black">Open Source!</h3>
-		<button onclick={goToNextSlide}>Go To Next Slide</button>
 	</div>
 </div>
 
 
 <script lang="ts">
-	
-	function goToNextSlide(){
-		console.log("does nothing yet, will eventually point to future slides")
+import { goto } from '$app/navigation';
+function handleKeydown(event: { key: string; }) {
+	if (event.key === 'Enter') {
+		goto('Definitions/slide1/')
 	}
+}
 </script>
+<svelte:window on:keydown={handleKeydown} />

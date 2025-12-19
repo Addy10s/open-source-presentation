@@ -1,2 +1,6 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+h3{
+    color: var(--color-slate-300) /* oklch(86.9% 0.022 252.894) = #cad5e2 */;
+}
